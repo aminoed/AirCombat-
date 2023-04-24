@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 65d86ff608d9a7e4aa42c431111b778d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box01_Misile
+    100002: Box01_Misile001
+    100004: Cockpit
+    100006: Cylinder01
+    100008: Cylinder02
+    100010: Cylinder03
+    100012: Cylinder06
+    100014: Cylinder07
+    100016: Cylinder08
+    100018: Cylinder09
+    100020: Cylinder10
+    100022: Cylinder11
+    100024: Cylinder12_Front_Tyre
+    100026: //RootNode
+    100028: Front_Tyre_Cylinder13
+    100030: Front_Tyre_Tube06
+    100032: Front_Tyre_Tube07
+    100034: Front_Tyre_Tube08
+    100036: Interior
+    100038: M_2
+    100040: M_2_ncl1_1
+    100042: M_3
+    100044: M_33
+    100046: Misile_Misile_002
+    100048: Misile_Misile_1
+    100050: Tube01
+    100052: Tube02
+    100054: Tube03
+    100056: Tube04
+    400000: Box01_Misile
+    400002: Box01_Misile001
+    400004: Cockpit
+    400006: Cylinder01
+    400008: Cylinder02
+    400010: Cylinder03
+    400012: Cylinder06
+    400014: Cylinder07
+    400016: Cylinder08
+    400018: Cylinder09
+    400020: Cylinder10
+    400022: Cylinder11
+    400024: Cylinder12_Front_Tyre
+    400026: //RootNode
+    400028: Front_Tyre_Cylinder13
+    400030: Front_Tyre_Tube06
+    400032: Front_Tyre_Tube07
+    400034: Front_Tyre_Tube08
+    400036: Interior
+    400038: M_2
+    400040: M_2_ncl1_1
+    400042: M_3
+    400044: M_33
+    400046: Misile_Misile_002
+    400048: Misile_Misile_1
+    400050: Tube01
+    400052: Tube02
+    400054: Tube03
+    400056: Tube04
+    2100000: phongE1SG
+    2100002: 07 - Default
+    2100004: phongE5SG
+    2100006: phongE4SG
+    2100008: Cylinder01SG
+    2100010: phongE2SG
+    2100012: 09 - Default
+    2100014: 08 - Default
+    2100016: CockpitSG
+    2100018: CockpitSG3
+    2100020: CockpitSG1
+    2100022: CockpitSG5
+    2100024: CockpitSG7
+    2100026: CockpitSG6
+    2100028: CockpitSG4
+    2100030: CockpitSG2
+    2100032: InteriorSG
+    2300000: Box01_Misile
+    2300002: Box01_Misile001
+    2300004: Cockpit
+    2300006: Cylinder01
+    2300008: Cylinder02
+    2300010: Cylinder03
+    2300012: Cylinder06
+    2300014: Cylinder07
+    2300016: Cylinder08
+    2300018: Cylinder09
+    2300020: Cylinder10
+    2300022: Cylinder11
+    2300024: Cylinder12_Front_Tyre
+    2300026: Front_Tyre_Cylinder13
+    2300028: Front_Tyre_Tube06
+    2300030: Front_Tyre_Tube07
+    2300032: Front_Tyre_Tube08
+    2300034: Interior
+    2300036: M_2
+    2300038: M_2_ncl1_1
+    2300040: M_3
+    2300042: M_33
+    2300044: Misile_Misile_002
+    2300046: Misile_Misile_1
+    2300048: Tube01
+    2300050: Tube02
+    2300052: Tube03
+    2300054: Tube04
+    3300000: Box01_Misile
+    3300002: Box01_Misile001
+    3300004: Cockpit
+    3300006: Cylinder01
+    3300008: Cylinder02
+    3300010: Cylinder03
+    3300012: Cylinder06
+    3300014: Cylinder07
+    3300016: Cylinder08
+    3300018: Cylinder09
+    3300020: Cylinder10
+    3300022: Cylinder11
+    3300024: Cylinder12_Front_Tyre
+    3300026: Front_Tyre_Cylinder13
+    3300028: Front_Tyre_Tube06
+    3300030: Front_Tyre_Tube07
+    3300032: Front_Tyre_Tube08
+    3300034: Interior
+    3300036: M_2
+    3300038: M_2_ncl1_1
+    3300040: M_3
+    3300042: M_33
+    3300044: Misile_Misile_002
+    3300046: Misile_Misile_1
+    3300048: Tube01
+    3300050: Tube02
+    3300052: Tube03
+    3300054: Tube04
+    4300000: Cylinder01
+    4300002: M_33
+    4300004: M_2
+    4300006: M_2_ncl1_1
+    4300008: M_3
+    4300010: Tube01
+    4300012: Cylinder02
+    4300014: Tube02
+    4300016: Cylinder03
+    4300018: Cylinder06
+    4300020: Cylinder07
+    4300022: Tube03
+    4300024: Cylinder08
+    4300026: Cylinder09
+    4300028: Tube04
+    4300030: Cylinder10
+    4300032: Cylinder11
+    4300034: Cockpit
+    4300036: Interior
+    4300038: Box01_Misile
+    4300040: Misile_Misile_1
+    4300042: Cylinder12_Front_Tyre
+    4300044: Front_Tyre_Cylinder13
+    4300046: Front_Tyre_Tube08
+    4300048: Front_Tyre_Tube06
+    4300050: Front_Tyre_Tube07
+    4300052: Misile_Misile_002
+    4300054: Box01_Misile001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
